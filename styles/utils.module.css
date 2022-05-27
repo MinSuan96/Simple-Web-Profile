@@ -23,8 +23,14 @@
   .headingMd {
     font-size: 1.2rem;
     line-height: 1.5;
+    color: white;
   }
   
+  .logo {
+    justify-content: center;
+    display: flex;
+  }
+
   .borderCircle {
     border-radius: 9999px;
   }
@@ -50,4 +56,11 @@
   .lightText {
     color: #666;
   }
+
+  .bgImage {
+    height: 117vh;
+    position: relative;
+    background-size: cover;
+    background-image: url("/images/bgIg.jpg");
+}
   
