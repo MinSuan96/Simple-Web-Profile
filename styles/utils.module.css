@@ -58,9 +58,24 @@
   }
 
   .bgImage {
-    height: 117vh;
+    height: 120vh;
     position: relative;
     background-size: cover;
     background-image: url("/images/bgIg.jpg");
+}
+
+  .imagePosition {
+    position: relative;
+    top: 0em;
+    left: 14em;
+    right: 0em;
+  }
+
+  .video {   
+    object-fit: cover;   
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1; 
 }
   
