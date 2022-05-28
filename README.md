@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Installation options
 
-1. Clone this repo: `git clone https://github.com/Zspirates96/Simple-Web-Profile.git`
+1. Clone this repo: `git clone https://github.com/Zspirates96/Simple-Web-Profile`
 2. Navigate to the directory and run `npm install`
 3. Run `npm install -S styled-components`
 4. Run `npm run dev`
